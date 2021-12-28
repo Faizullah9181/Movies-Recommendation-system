@@ -1,1 +1,2 @@
-# Movies-Recommendation-system
+## Movies Recommendation system using mahine learning algorithm
+### Deployed using Streamlit
